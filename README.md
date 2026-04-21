@@ -143,7 +143,7 @@ Keygen UI is a comprehensive, enterprise-grade frontend application that provide
 
 ### Prerequisites
 
-- **Node.js** 18+ 
+- **Node.js** 20.9+ 
 - **PNPM** (recommended package manager)
 - **Keygen Account** with API access
 

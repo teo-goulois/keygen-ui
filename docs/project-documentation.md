@@ -72,6 +72,10 @@ Commands:
 - `pnpm dev` — start dev server
 - `pnpm typecheck` — TypeScript checks
 
+Prerequisites:
+- Node.js 20.9+ (Next.js 16 requirement)
+- pnpm 10.x via the pinned `packageManager` field in `package.json`
+
 ## API Integration
 
 - API client exposes resources: `licenses`, `machines`, `products`, `policies`, `users`, `groups`, `entitlements`, `webhooks`, and request logs.
